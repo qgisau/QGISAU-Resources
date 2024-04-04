@@ -5,13 +5,13 @@ This repository contains styles, scripts, models, and other QGIS resources for A
 ## QLD
 - QPWS
 
-## Install these resources
+# Install these resources
 Use the ["Resources Sharing"](http://www.akbargumbira.com/qgis_resources_sharing/) plugin to add this collection:\
 Settings -> Add repository...:\
 --- Name: Australian QGIS Styles\
 --- URL: https://github.com/qgisau/QGISAU-Resources.git
 
-## Adding a new collection
+# Add a new collection
 Do some checks first:  
 > - Resources should come from the custodian themselves or with express permission to add them to this repository.  
 > - Files that have been created by another software need to be checked that they are legally allowed to be uploaded here.   
@@ -50,4 +50,4 @@ This method is to undertake all the fiddly work on your machine. You can underta
 
      
 
-Last updated: 4th April 2024
+Last updated: 5th April 2024
