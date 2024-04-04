@@ -4,7 +4,6 @@ This repository contains styles, scripts, models, and other QGIS resources for A
 # Collections
 ## QLD
 - QPWS
-- Vegetation Management
 
 
 ## Install
