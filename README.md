@@ -1,20 +1,19 @@
 # QGISAU Sharing Resources
-This repository contains styles, scripts, models, and other QGIS resources for Australian QGIS operations that you can share through the QGIS Resources Sharing.
+This repository contains styles, scripts, models, and other QGIS resources for Australian QGIS operations.
 
 # Collections
 ## QLD
 - QPWS
 
-# Install these resources
-Use the ["Resources Sharing"](http://www.akbargumbira.com/qgis_resources_sharing/) plugin to add this collection:\
-Settings -> Add repository...:\
---- Name: Australian QGIS Styles\
---- URL: https://github.com/qgisau/QGISAU-Resources.git
-
 # Add a new collection
 Do some checks first:  
 > - Resources should come from the custodian themselves or with express permission to add them to this repository.  
-> - Files that have been created by another software need to be checked that they are legally allowed to be uploaded here.   
+> - Files that have been created by another software need to be checked that they are legally allowed to be uploaded here.
+
+Under the collection folder, create a folder for your theme and load in all the required files. There is no requirement to load for the QGIS Resource Sharing Plugin.
+
+## Optional - To load into QGIS Resource Sharing Plugin
+*The following method is for loading up to the QGIS Resource Sharing Plugin that currently has some bug.*
 
 This method is to undertake all the fiddly work on your machine. You can undertake it directly on repo. 
 1. On your machine, download this [zip file](collections/collectionN.zip)
@@ -48,6 +47,11 @@ This method is to undertake all the fiddly work on your machine. You can underta
 7. Copy over your folder and hit Commit
 8. In QGIS, test it by loading up (or reloading if it is already loaded) the repository in the QGIS Resource sharing plugin. Once loaded, go to Intall and see if it is there and will load. If you experience any issues, put it in the repo's Issues.
 
-     
+# Load into QGIS
+Install these resources:
+Use the ["Resources Sharing"](http://www.akbargumbira.com/qgis_resources_sharing/) plugin to add this collection:\
+Settings -> Add repository...:\
+--- Name: Australian QGIS Styles\
+--- URL: https://github.com/qgisau/QGISAU-Resources.git
 
 Last updated: 5th April 2024
