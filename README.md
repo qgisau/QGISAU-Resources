@@ -1,6 +1,8 @@
 # QGISAU Sharing Resources
 This repository contains styles, scripts, models, and other QGIS resources for Australian QGIS operations.
 
+# Courses
+Check out our list of courses [here](/manuals/readme.md)
 # Collections
 ## QLD
 - QPWS
