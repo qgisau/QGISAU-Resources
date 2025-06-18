@@ -1,4 +1,4 @@
-# QGISAU Sharing Resources
+# QGIS AU Sharing Resources
 This repository contains styles, scripts, models, and other QGIS resources for Australian QGIS operations.
 
 # Courses
