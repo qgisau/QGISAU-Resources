@@ -1,8 +1,3 @@
----
-layout: default
-title: Courses
-permalink: 
----
 # QGIS Courses by our Community
 ### Listed below are courses created by our community members for public use:
 ## QGIS - Making beautiful maps
